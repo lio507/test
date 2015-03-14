@@ -1,0 +1,13 @@
+{
+    "name": "weaverryan/drupal",
+    "description": "finder",
+    "require": {
+        "symfony/finder": "v2.1.2"
+    },
+    "authors": [
+        {
+            "name": "Ryan Weaver",
+            "email": "ryan@thasquality.com"
+        }
+    ]
+}
